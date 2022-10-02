@@ -1,65 +1,58 @@
 ---
-title: Example Talk
+title: An Introduction to DosNA - Distributed Numpy Arrays for High-performance cloud computing
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: UKRI Cloud Workshop
+event_url: https://cloud.ac.uk/2022/02/27/programme-for-ukri-cloud-workshop-2022/
 
-location: Wowchemy HQ
+location: Francis Crick Institute
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 1 Midland Rd 
+  city: London
+  postcode: NW1 1AT
+  country: United Kingdom
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: An Introduction to DosNA
+abstract: The cloud-primarily deals with data as object stores such as S3; however, HPC data processing is primarily done using filesystems such as HDF5, which can make offloading data to the cloud difficult. DosNa is a python wrapper that can distribute N-dimensional arrays over an Object Store server. The main goal of DosNa is to provide an easy and seamless interface to store and manage N-Dimensional datasets over a remote cloud. It supports S3 and Ceph backends and allows parallelised data access through the MPI engine. Currently, features to allow for converting HDF5 files to DosNa Objects, an API to visualise data, object locking, BLOSC compression, and checksums are underway. This talk introduces DosNa and showcases the current features and what’s to come.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
+# date: '2030-06-01T13:00:00Z'
+# date_end: '2030-06-01T15:00:00Z'
+# all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-03-29T14:15:00Z'
 
 authors: []
 tags: []
 
-# Is this a featured talk? (true/false)
-featured: false
-
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
-
 links:
-  - icon: twitter
+  - icon: github
     icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+    name: Project Repo
+    url: https://github.com/rosalindfranklininstitute/DosNA
+  - icon: citiation
+    icon_pack: fab
+    name: citiation
+    url: https://zenodo.org/record/6411813/export/hx#.Yy2V6tLMJH4
+url_slides: '/uploads/An_Introduction_to_DosNA.pdf'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - example
+# projects:
+#   - example
 ---
-
+<!-- 
 {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
@@ -70,4 +63,4 @@ Slides can be added in a few ways:
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. -->
