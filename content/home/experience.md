@@ -48,8 +48,7 @@ experience:
     description: |2-
         The dissertation/research project aimed to develop an automated way to collect lab book information and automatically record it in a central database. This object was achieved using classical computer vision techniques to recognise when to take a photo of the lab book and machine learning to generate a synthetic handwritten keyword dataset for training and testing and to extract the handwritten keywords from the lab book. The data captured was then stored in an s3 data store, and words extracted were attached in the metadata of the uploaded images. This dissertation was awarded 81.68% and is currently under further development at the Rosalind Franklin Institute. 
 
-
-- title: Maths Circle Mentor
+  - title: Maths Circle Mentor
     company: Exeter Maths School
     company_url: 'https://exetermathematicsschool.ac.uk/'
     location: Exeter
