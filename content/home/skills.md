@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 100%
+  - description: Developing novel research software
     icon: python
     icon_pack: fab
-    name: Python
-  - description: 100%
-    icon: chart-line
+    name: Programming
+  - description: Taught students from year 8 to undergrad in computer science and maths
+    icon: chalkboard
     icon_pack: fas
-    name: Statistics
-  - description: 10%
+    name: Teaching and Mentoring
+  - description: Presenting my research at conferences such as 
     icon: camera-retro
     icon_pack: fas
-    name: Photography
+    name: Presenting 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

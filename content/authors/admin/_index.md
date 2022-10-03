@@ -21,8 +21,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Uncertainty in Machine Learning
+  - Model interpretability
+  - Scientific applications of Artificial Intelligence
 
 # Education to show in About widget
 education:
@@ -30,6 +32,9 @@ education:
     - course: MSc in Artificial Intelligence
       institution: Queen Mary University of London
       year: 2023
+    - course: AI and Machine Learning in Healthcare Summer School
+      institution: Cambridge Centre for AI in Medicine
+      year: 2022
     - course: BSc in Computer Science
       institution: University of Plymouth
       year: 2021
