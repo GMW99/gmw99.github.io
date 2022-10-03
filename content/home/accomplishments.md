@@ -23,29 +23,30 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - url:
     date_end: ''
-    date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
+    date_start: '2020-09-01'
+    description: This was a hackathon organised through CERN to build, develop and prototype projects in the field of scientific communication. I was the leader of the project as selected by the group. Our project was to create and design a tool to explain how a project's goals and achievements evolve over time. This was an interdisciplinary team made of communicators, designers, programmers and scientists.
+    organization: CERN
+    organization_url: https://www.scinaptics.com/scicommhack
+    title: Scicomm Hackathon
+    subtitle: Project Time Turner
+    url: 'https://www.scinaptics.com/scicommhack'
+  - url: 
+    date_end: '2019-06-01'
+    date_start: '2020-06-01'
+    description: An award for completing my project "Processing Big Data- High performance object stores for tomography data processing
+    organization: Diamond Light Source
+    organization_url: https://ccaim.cam.ac.uk/
+    title: Diamond Light Source - Year In Industry Certificate
+    url: "/uploads/DiamondCert.pdf"
+  - url: 
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    date_start: '2018-09-21'
+    description: 'An award for achieving more than 70% in an academic year '
+    organization: University of Plymouth
+    organization_url: https://www.plymouth.ac.uk/
+    title: 'Deans List'
     url: ''
 
 design:
