@@ -37,7 +37,7 @@ experience:
     date_start: '2021-07-01'
     date_end: '2022-07-01'
     description: |2-
-        In this role I conducted research in High-performance computing (HPC) for big data processing. Within this research, I lead the development and maintenance of two significant projects, DosNa [0] and DisTRaC [1]. I was also involved in writing a successful grant bid for £10,000 in research funding for "Using Novel Cluster Technology to improve performance of Cryo EM analysis" with the University of Bristol. This was successful and lead to a reduction in processing times of 4.37%.
+        In this role I conducted research in High-performance computing (HPC) for big data processing. Within this research, I lead the development and maintenance of two significant projects, DosNa and DisTRaC. I was also involved in writing a successful grant bid for £10,000 in research funding for "Using Novel Cluster Technology to improve performance of Cryo EM analysis" with the University of Bristol. This was successful and lead to a reduction in processing times of 4.37%.
 
   - title: AI & I Research Project- Automating Lab Book Data Collection With Edge Machine Learning
     company: Rosalind Franklin Institute
