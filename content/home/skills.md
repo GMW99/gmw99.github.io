@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Developing novel research software
+  - description: Developing novel research software utilising the Scientific Python Stack (Numpy, Scipy, Matplotlib) and the Python Machine Learning Stack (Jax, Pytorch and Tensorflow). 
     icon: python
     icon_pack: fab
-    name: Programming
+    name: Research Software Enginnering
   - description: Taught students from year 8 to undergrad in computer science and maths
     icon: chalkboard
     icon_pack: fas
     name: Teaching and Mentoring
-  - description: Presenting my research at conferences such as 
-    icon: camera-retro
+  - description: A large section of my research is at the intersection of multiple disciplines
+    icon: microscope
     icon_pack: fas
-    name: Presenting 
+    name: Interdisciplinary Research
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
