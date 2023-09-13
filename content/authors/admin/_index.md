@@ -29,7 +29,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-      - course: PhD in Computer Science
+    - course: PhD in Computer Science
       institution: Queen Mary University of London
       year: Present
     - course: MSc in Artificial Intelligence
