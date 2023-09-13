@@ -26,15 +26,15 @@ item:
   - url: 
     date_end: ''
     date_start: '2023-09-18'
-    description: '€7000 for demonstrating passion for technology, academic excellence, and exceptional leadership.'
+    description: €7000 for demonstrating passion for technology, academic excellence, and exceptional leadership.
     organization: Queen Mary University of London
     organization_url: https://www.qmul.ac.uk/
-    title: 'Google 2023 Academic Scholarship'
+    title: Google 2023 Academic Scholarship
     url: ''
   - url: 
     date_end: '2026-09-18'
     date_start: '2023-09-18'
-    description: 'Covers tuition fees, and provides annual tax-free maintenance for 3 years'
+    description: Covers tuition fees, and provides annual tax-free maintenance for 3 years
     organization: Queen Mary University of London
     organization_url: https://www.qmul.ac.uk/
     title: 'Principle's PhD Scholarship'
@@ -59,7 +59,7 @@ item:
   - url: 
     date_end: ''
     date_start: '2018-09-21'
-    description: 'An award for achieving more than 70% in an academic year '
+    description: 'An award for achieving more than 70% in an academic year'
     organization: University of Plymouth
     organization_url: https://www.plymouth.ac.uk/
     title: 'Deans List'
