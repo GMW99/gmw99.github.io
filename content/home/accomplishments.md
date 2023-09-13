@@ -30,7 +30,6 @@ item:
     organization: Queen Mary University of London
     organization_url: https://www.qmul.ac.uk/
     title: Google 2023 Academic Scholarship
-    url: ''
   - url: 
     date_end: ''
     date_start: '2023-09-18'
@@ -38,7 +37,6 @@ item:
     organization: Queen Mary University of London
     organization_url: https://www.qmul.ac.uk/
     title: 'Principle's PhD Scholarship'
-    url: ''
   - url:
     date_end: ''
     date_start: '2020-09-01'
