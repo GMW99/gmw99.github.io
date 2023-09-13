@@ -36,7 +36,8 @@ item:
     description: Covers tuition fees, and provides annual tax-free maintenance for 3 years.
     organization: Queen Mary University of London
     organization_url: https://www.qmul.ac.uk/
-    title: 'Principle's PhD Scholarship'
+    title: Principle's PhD Scholarship
+    url: ''
   - url:
     date_end: ''
     date_start: '2020-09-01'
