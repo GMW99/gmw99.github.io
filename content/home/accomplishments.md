@@ -31,15 +31,13 @@ item:
     organization_url: https://www.qmul.ac.uk/
     title: 'Google 2023 Academic Scholarship'
     url: ''
-
-
   - url: 
     date_end: '2026-09-18'
     date_start: '2023-09-18'
-    description: 'Covers tuition fees, and provides annual tax-free maintenance for 3 years for the PhD'
+    description: 'Covers tuition fees, and provides annual tax-free maintenance for 3 years'
     organization: Queen Mary University of London
     organization_url: https://www.qmul.ac.uk/
-    title: 'Principle's Scholarship'
+    title: 'Principle's PhD Scholarship'
     url: ''
   - url:
     date_end: ''
