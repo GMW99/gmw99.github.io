@@ -37,9 +37,9 @@ item:
     description: Covers tuition fees, and provides annual tax-free maintenance for 3 years.
     organization: Queen Mary University of London
     organization_url: https://www.qmul.ac.uk/
-    title: 'Principle's PhD Scholarship'
+    title: Principle's PhD Scholarship
     url: ''
-  - url:
+ - url:
     date_end: ''
     date_start: '2020-09-01'
     description: This was a hackathon organised through CERN to build, develop and prototype projects in the field of scientific communication. I was the leader of the project as selected by the group. Our project was to create and design a tool to explain how a project's goals and achievements evolve over time. This was an interdisciplinary team made of communicators, designers, programmers and scientists.
@@ -64,6 +64,8 @@ item:
     organization_url: https://www.plymouth.ac.uk/
     title: 'Deans List'
     url: ''
+
+ 
 
 design:
   columns: '2'
