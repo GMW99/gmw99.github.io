@@ -7,7 +7,7 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 30
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Accomplish&shy;ments'
@@ -23,6 +23,24 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - url: 
+    date_end: ''
+    date_start: '2023-09-18'
+    description: '€7000 for demonstrating passion for technology, academic excellence, and exceptional leadership.'
+    organization: Queen Mary University of London
+    organization_url: https://www.qmul.ac.uk/
+    title: 'Google 2023 Academic Scholarship'
+    url: ''
+
+
+  - url: 
+    date_end: '2026-09-18'
+    date_start: '2023-09-18'
+    description: 'Covers tuition fees, and provides annual tax-free maintenance for 3 years for the PhD'
+    organization: Queen Mary University of London
+    organization_url: https://www.qmul.ac.uk/
+    title: 'Principle's Scholarship'
+    url: ''
   - url:
     date_end: ''
     date_start: '2020-09-01'

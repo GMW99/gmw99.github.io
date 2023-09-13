@@ -6,29 +6,32 @@ title: Gabryel Mason-Williams
 superuser: true
 
 # Role/position/tagline
-role: Research Software Associate and MSc student in Artificial Intelligence 
+role: PhD student Computer Science and Research Software Associate 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Rosalind Franklin Institute
-    url: https://rfi.ac.uk
   - name: Queen Mary Univeristy of London
     url: https://www.qmul.ac.uk/
+  - name: Rosalind Franklin Institute
+    url: https://rfi.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Uncertainty in Machine Learning
-  - Model interpretability
-  - Scientific applications of Artificial Intelligence
+  - Theory of Deep Learning
+  - Uncertainty Qunatification in Machine Learning
+  - Neural Networks Pruning
+  - Explainable AI
+  - Scientific Applications of Artificial Intelligence
 
 # Education to show in About widget
 education:
   courses:
+      - course: PhD in Computer Science
+      institution: Queen Mary University of London
+      year: Present
     - course: MSc in Artificial Intelligence
       institution: Queen Mary University of London
       year: 2023
@@ -55,7 +58,7 @@ social:
     link: https://github.com/gmw99
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/gabryel-mason-williams-716100190/
+    link: https://www.linkedin.com/in/gabryel-mason-williams/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -70,6 +73,6 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am currently doing an MSc in Artificial Intelligence at Queen Mary Univeristy of London as well working as a Research Software Associate at The Rosalind Franklin Institue. 
+I am doing a PhD in Computer Science at Queen Mary University of London, supervised by  [Mark Sandler](http://eecs.qmul.ac.uk/people/profiles/sandlermark.html) and [Primoz Skraba](http://pskraba.org/), researching the Theory of Deep learning in the aim to make Deep Learning more explainable and interpretable. I am also in a contract role with the Rosalind Franklin Institute, working on a novel lossless neural compression model for scientific data.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/GMW_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
