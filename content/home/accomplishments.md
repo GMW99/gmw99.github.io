@@ -32,9 +32,9 @@ item:
     title: Google 2023 Academic Scholarship
     url: ''
   - url: 
-    date_end: '2026-09-18'
+    date_end: ''
     date_start: '2023-09-18'
-    description: Covers tuition fees, and provides annual tax-free maintenance for 3 years
+    description: Covers tuition fees, and provides annual tax-free maintenance for 3 years.
     organization: Queen Mary University of London
     organization_url: https://www.qmul.ac.uk/
     title: 'Principle's PhD Scholarship'
@@ -51,7 +51,7 @@ item:
   - url: 
     date_end: '2019-06-01'
     date_start: '2020-06-01'
-    description: An award for completing my project "Processing Big Data- High performance object stores for tomography data processing
+    description: An award for completing my project "Processing Big Data- High performance object stores for tomography data processing.
     organization: Diamond Light Source
     organization_url: https://ccaim.cam.ac.uk/
     title: Diamond Light Source - Year In Industry Certificate
