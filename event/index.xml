@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recent &amp; Upcoming Talks | Gabryel Mason-Williams</title><link>https://example.com/event/</link><atom:link href="https://example.com/event/index.xml" rel="self" type="application/rss+xml"/><description>Recent &amp; Upcoming Talks</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 29 Mar 2022 14:15:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Recent &amp; Upcoming Talks</title><link>https://example.com/event/</link></image><item><title>An Introduction to DosNA</title><link>https://example.com/talk/an-introduction-to-dosna/</link><pubDate>Tue, 29 Mar 2022 14:15:00 +0000</pubDate><guid>https://example.com/talk/an-introduction-to-dosna/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+Slides can be added in a few ways:
+- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --></description></item><item><title>ALaBDac - Automated Lab Book Data Collection</title><link>https://example.com/talk/alabdac-automated-lab-book-data-collection/</link><pubDate>Tue, 01 Jun 2021 14:15:00 +0000</pubDate><guid>https://example.com/talk/alabdac-automated-lab-book-data-collection/</guid><description/></item><item><title>Processing Big Data</title><link>https://example.com/talk/processing-big-data/</link><pubDate>Mon, 01 Jun 2020 14:15:00 +0000</pubDate><guid>https://example.com/talk/processing-big-data/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+Slides can be added in a few ways:
+- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --></description></item><item><title>Accessing CEPH’s Performance</title><link>https://example.com/talk/accessing-cephs-performance/</link><pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate><guid>https://example.com/talk/accessing-cephs-performance/</guid><description/></item></channel></rss>
