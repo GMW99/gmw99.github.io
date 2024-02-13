@@ -65,7 +65,7 @@ social:
 # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/GMW_CV.pdf
+    link: uploads/Gabryel_Mason_Williams_Resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -75,4 +75,4 @@ highlight_name: true
 ---
 I am doing a PhD in Computer Science at Queen Mary University of London, supervised by  [Mark Sandler](http://eecs.qmul.ac.uk/people/profiles/sandlermark.html) and [Primoz Skraba](http://pskraba.org/), researching the Theory of Deep learning in the aim to make Deep Learning more explainable and interpretable. I am also in a contract role with the Rosalind Franklin Institute, working on a novel lossless neural compression model for scientific data.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/GMW_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Gabryel_Mason_Williams_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
