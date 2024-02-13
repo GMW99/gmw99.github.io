@@ -22,12 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Software Engineer
+    company: Rosalind Franklin Institute
+    company_url: 'https://www.rfi.ac.uk/'
+    location: Oxfordshire
+    date_start: '2023-09-01'
+    date_end: ''
+    description: |2-
+        At the Rosalind Franklin Institute (RFI), I am presently involved in the research and creation of novel neural losses compression algorithms for large volumetric scientific data.
   - title: Research Software Associate
     company: Rosalind Franklin Institute
     company_url: 'https://www.rfi.ac.uk/'
     location: Oxfordshire
     date_start: '2022-07-01'
-    date_end: ''
+    date_end: '2023-09-01'
     description: |2-
         At the Rosalind Franklin Institute (RFI), I am presently involved in two research projects. DisTRaX, which I lead, is the productionisation and improvement of previous research and Kompressor, a machine learning project to create a novel neural losses compression algorithm for extensive volumetric scientific data.
   - title: Junior Research Software Engineer
