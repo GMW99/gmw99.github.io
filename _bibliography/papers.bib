@@ -1,0 +1,37 @@
+---
+---
+
+@article{mason2024knowledge,
+  title={Knowledge Distillation: The Functional Perspective},
+  abstract={Empirical findings of accuracy correlations between students and teachers in the knowledge distillation framework have served as supporting evidence for knowl- edge transfer. In this paper, we sought to explain and understand the knowledge transfer derived from knowledge distillation via functional similarity, hypothesising that knowledge distillation provides a functionally similar student to its teacher model. While we accept this hypothesis for two out of three architectures across a range of metrics for functional analysis against four controls, the results show that knowledge transfer is significant but it is less pronounced than expected for conditions that maximise opportunities for functional similarity. Furthermore, results from the use of Uniform and Gaussian Noise as teachers suggest that the knowledge-sharing aspects of knowledge distillation inadequately describe the accuracy benefits witnessed when using the knowledge distillation training setup itself. Moreover, in the first instance, we show that knowledge distillation is not a compression mechanism but primarily a data-dependent training regulariser with a small capacity to transfer knowledge in the best case.},
+  author={Mason-Williams, Israel and Mason-Williams, Gabryel and Sandler, Mark},
+  publisher={NeurIPS 2024 Workshop on Scientific Methods for Understanding Deep Learning},
+  html={https://openreview.net/forum?id=Cgo73ZnAQc},
+  preview={knowledge-distillation-the-functional-perspective.png},
+  bibtex_show={true},
+  year={2024}
+}
+
+@inproceedings{mason2024makes,
+  title={What makes a good prune? maximal unstructured pruning for maximal cosine similarity},
+  abstract={Pruning is an effective method to reduce the size of deep neural network models, maintain accuracy, and, in some cases, improve the network’s overall performance. However, the mechanisms underpinning pruning remain unclear. Why can different methods prune by different percentages yet achieve similar performance? Why can we not prune at the start of training? Why are some models more amenable to being pruned than others? Given a model, what is the maximum amount it can be pruned before significantly affecting the performance? This paper explores and answers these questions from the global unstructured magnitude pruning perspective with one epoch of fine-tuning. We develop the idea that cosine similarity is an effective proxy measure for functional similarity between the parent and the pruned network. We prove that the L1 pruning method is optimal when pruning by cosine similarity. We show that the higher the kurtosis of a model’s parameter distribution, the more it can be pruned while maintaining performance. Finally, we present a simple method to determine the optimal amount by which a network can be L1-pruned based on its parameter distribution. The code demonstrating the method is available at https://github.com/gmw99/what makes a good prune},
+  author={Mason-Williams, Gabryel and Dahlqvist, Fredrik},
+  booktitle={The Twelfth International Conference on Learning Representations},
+  bibtex_show={true},
+  preview={what-makes-a-good-prune.png},
+  html={https://openreview.net/forum?id=jsvvPVVzwf},
+  year={2024}
+}
+
+@misc{masonwilliams2022distracacceleratinghighperformance,
+      title={DisTRaC: Accelerating High Performance Compute Processing for Temporary Data Storage}, 
+      abstract={High Performance Compute (HPC) clusters often produce intermediate files as part of code execution and message passing is not always possible to supply data to these cluster jobs. In these cases, I/O goes back to central distributed storage to allow cross node data sharing. These systems are often high performance and characterised by their high cost per TB and sensitivity to workload type such as being tuned to small or large file I/O. However, compute nodes often have large amounts of RAM, so when dealing with intermediate files where longevity or reliability of the system is not as important, local RAM disks can be used to obtain performance benefits. In this paper we show how this problem was tackled by creating a RAM block that could interact with the object storage system Ceph, as well as creating a deployment tool to deploy Ceph on HPC infrastructure effectively. This work resulted in a system that was more performant than the central high performance distributed storage system used at Diamond reducing I/O overhead and processing time for Savu, a tomography data processing application, by 81.04% and 8.32% respectively.},
+      author={Gabryel Mason-Williams and Dave Bond and Mark Basham},
+      year={2022},
+      eprint={2212.03054},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC},
+      bibtex_show={true},
+      preview={distrac.png},
+      html={https://arxiv.org/abs/2212.03054}, 
+}

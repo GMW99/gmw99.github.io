@@ -1,0 +1,173 @@
+{
+  "basics": {
+    "name": "Gabryel Mason-Williams",
+    "label": "PhD Student",
+    "image": "",
+    "email": "gabryelmw@gmail.com",
+    "phone": "",
+    "url": "https:/gmw99.github.io",
+    "summary": "PhD Student in the Theory of Deep Learning | Google 2023 Academic Scholar | Research Software Engineer at the Rosalind Franklin Institute",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "gabryel-mason-williams",
+        "url": "https://www.linkedin.com/in/gabryel-mason-williams/"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Queen Mary University of London",
+      "location": "London, UK",
+      "url": "https://www.qmul.ac.uk/",
+      "area": "Artificial Intelligence and Mathematics",
+      "studyType": "Doctorate of Philosophy (PhD)",
+      "startDate": "2023-09-18",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Queen Mary University of London",
+      "location": "London, UK",
+      "url": "https://www.qmul.ac.uk/",
+      "area": "Artificial Intelligence: Distinction (85.32%)",
+      "studyType": "Masters of Science (MSc)",
+      "startDate": "2022-09",
+      "endDate": "2023-09",
+      "score": "",
+      "courses": [
+        "Machine Learning",
+        "Neural Networks and Deep Learning",
+        "Artificial Intelligence",
+        "Applied Statistics",
+        "Natural Lanauge Processing"
+      ]
+    },
+    {
+      "institution": "University of Plymouth",
+      "location": "Plymouth, UK",
+      "url": "https://www.plymouth.ac.uk/",
+      "area": "Computer Science: First Class (76.26%)",
+      "studyType": "Bachelor of Science (BSc)",
+      "startDate": "2017-09",
+      "endDate": "2021-09",
+      "score": "",
+      "courses": [
+        "Computing Project",
+        "Machine Learning",
+        "Parallel Computing",
+        "Alternative Paradigms",
+        "Advanced Computing and Networking Infrastructures"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "name": "Rosalind Franklin Institute",
+      "position": "Research Software Engineer",
+      "url": "https://rfi.ac.uk",
+      "startDate": "2021-07",
+      "endDate": "",
+      "summary": "Research Software Engineer, working promdinetly one day a week across a range projects.",
+      "highlights": [
+        "Creator and sole developer of DisTRaX, which is a Python application for deploying temporary storage systems onto High-Performance Compute (HPC) infrastructure in a fast and scalable fashion. For our Cryo-EM software, it reduced processing times and I/O overhead by 4.37% and 100%, respectively.",
+        "Involed in a successful grant bid for £10,000 in research funding for ”Using Novel Cluster Technology to Improve Performance of Cryo-EM Analysis” with the University of Bristol",
+        "Played an active role in the creation and teaching of the lessons in machine learning for the first-year PhD students.",
+        "Gave Talks at Conferences."
+      ]
+    },
+    {
+      "name": "Exeter Mathematics School",
+      "position": "Maths Circle Mentor",
+      "url": "https://axiommaths.com/",
+      "startDate": "2021-10",
+      "endDate": "2022-07",
+      "summary": "Maths Circle Mentor is predominantly online, however occasionally in person.",
+      "highlights": [
+        "Mentored students in years 8 and 9 in mathematics to encourage the development of mathematical thinking outside of the school context.",
+        "Successfully improved their ability to be adventurous, articulate and accepting by providing them with challenging questions and creating an effective collaborative learning environment"
+      ]
+    },
+    {
+      "name": "Diamond Light Source",
+      "position": "Scientific Computing Research Placement: Year in Industry Student",
+      "url": "https://diamond.ac.uk/",
+      "startDate": "2019-06",
+      "endDate": "2020-09",
+      "summary": "Researched: High-Performance Object Stores for Intermediate Data processing",
+      "highlights": [
+        "Created GRAM a kernel module to represent RAM as a block device for Ceph and DisTRaC an application that allows Ceph to run on a High-Performance Computing cluster using RAM, which led to a reduction in I/O and processing times of 81.04% and 8.32%, respectively.",
+        "Presented a poster at Ceph Day CERN and gave a talk/demo of DisTRaC to the Ceph Science Group.",
+        "Created a proof of concept for the visualisation of objects inside an object store in real-time, which was presented at the SuperComputing 19 conference in Denver, STFC booth.",
+        "Awarded a 3-month contract extension due to excellent work."
+      ]
+    }
+  ],
+
+  "Awards and Comedable Achievements": [
+    {
+      "title": "4th Place at CIUK Cluster Challenge",
+      "date": "2024",
+      "awarder": "CIUK",
+      "url": "https://www.sc.stfc.ac.uk/ciuk2024/",
+      "summary": "Lead a team of 5 HPC novices to 4th in the CIUK Cluster Challenge."
+    },
+    {
+      "title": "Google Europe Students with Disabilities Academic Scholarship",
+      "date": "2023",
+      "awarder": "Google",
+      "url": "https://www.qmul.ac.uk/eecs/news-and-events/news/items/eecs-student-awarded-phd-scholarship-from-google.html",
+      "summary": "One of ten students in europe to achive the award that recognises (i) demonstration of passion to computer science; (ii) academic merit; and (iii) demonstration of leadership skills."
+    },
+    {
+      "title": "Principle Scholarship",
+      "date": "2023",
+      "awarder": "Queen Mary University of London",
+      "url": "https://www.qmul.ac.uk/",
+      "summary": "University award that covers PhD tuition fees, and provides annual tax-free stipend for 3 years"
+    },
+    {
+      "title": "Master's Project Published at ICLR 2024",
+      "date": "2023/2024",
+      "awarder": "ICLR",
+      "url": "https://iclr.cc/virtual/2024/poster/18003",
+      "summary": "Self proposed Master's project was published at a world class venue in AI."
+    },
+    {
+      "title": "Bachelor’s Research Project in Collaboration With the Rosalind Franklin Institute",
+      "date": "2020/2021",
+      "awarder": "Rosalind Franklin Institute",
+      "url": "https://rfi.ac.uk",
+      "summary": "Of my volition, I sought and established a research project in collaboration with the Rosalind Franklin Institute."
+    },
+    {
+      "title": "Dean's List",
+      "date": "2017/18",
+      "awarder": "University of Plymouth",
+      "url": "",
+      "summary": "Awarded to students who achieved above 70% in a academic year."
+    }
+  ],
+
+  "volunteer": [
+    {
+      "organization": "Reading Group for the Fundamentals of AI",
+      "location": "London, UK",
+      "position": "Lead Organiser",
+      "url": "https://qmul-rg-fundamentals-of-ai.github.io/",
+      "startDate": "2023-09",
+      "endDate": "",
+      "summary": "Manage and organise the reading group by inviting speakers and finding papers to explore."
+    },
+    {
+      "organization": "ICLR 2025",
+      "location": "Remote",
+      "position": "Reviewer",
+      "url": "https://iclr.cc",
+      "startDate": "2024-10",
+      "endDate": "2024-11",
+      "summary": "Reviewed 3 papers for ICLR 2025."
+    }
+  ]
+}
